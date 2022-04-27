@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022.04.27 11:28:26.074.pas,C:\Users\komissarov_km\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\komissarov_km\Desktop\testTask_01\Unit2.pas</Transaction>
+    <Transaction>2022.04.27 11:28:26.074.dfm,C:\Users\komissarov_km\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\komissarov_km\Desktop\testTask_01\Unit2.dfm</Transaction>
+    <Transaction>2022.04.27 11:28:27.018.dproj,C:\Users\komissarov_km\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\komissarov_km\Desktop\testTask_01\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
